@@ -1,4 +1,4 @@
-![anden 27](./assets/anden-27-cabecera.png)
+![anden 27](./anden27/assets/anden-27-cabecera.png)
 
 ## Introducción
 La inmensa mayoría de blogs siguen una estructura similar: 
